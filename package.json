@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-eslint-snake-case",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "This plugin verifys variable names are in snake_case",
   "keywords": [
     "eslint",
